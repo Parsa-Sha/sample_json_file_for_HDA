@@ -1,0 +1,8 @@
+{
+	"env": [{
+		"_sample_name_": "_directory_of_imported_package_"
+	}],
+
+	"path": "$_sample_name_",
+	"package_path": "$_sample_name_/packages"
+}
